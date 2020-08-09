@@ -1,15 +1,15 @@
 # MEDI CONSULT
-An App a Day Keeps a Doctor away...
+An App a Day Keeps a Doctor away... :wink:
 
 
 ## Abstract
 This project is based on the Mobile Application for Online Consultancy for people all around the world. This App basically allows us to Consult ourselves while sitting at our Home.
 
 ## Objective
-The main objective of this application is to help people to cure them and save their Time, Money and Resources, and save their Lives as well
+The main objective of this application is to help people to cure them and save their Time :watch:, Money :moneybag: and Resources, and save their Lives :heart: as well
 
 ## Purpose
-As we know in today’s rush it is difficult to take a Doctor’s appointment in Emergency. So, what to do until we get an appointment with Doctor. That’s where this App’s comes into the action. A user can input their Symptoms and can get a list of Diseases they may poses.
+As we know in today’s rush it is difficult to take a Doctor’s appointment in Emergency :ambulance:. So, what to do until we get an appointment with Doctor. That’s where this App’s comes into the action. A user can input their Symptoms and can get a list of Diseases they may poses.
 
 ## Scope
 With the help of this application one can prevent their Diseases from spreading more. This can save someone’s Life who cannot reach to the Doctor in case of Emergency. They can at least take some action for preventing their Diseas
@@ -34,10 +34,10 @@ With the help of this application one can prevent their Diseases from spreading 
 	 - Location
 
 ## Problems Encountered
-- Asking Permission for Calling while Implementing SOS Module
-- While implementing Google maps API for nearby Hospitals
-- Wasn't able to directly show the information from google so I went with putting Screenshots
-- Changing Dependencies Of Android Studio caused Immense Difficulty
-- Updating Gradle File and Version of Android Studio
+- Asking Permission for Calling:telephone_receiver: while Implementing SOS Module
+- While implementing Google maps:pushpin: API for nearby Hospitals
+- Wasn't able to directly show the information from google so I went with putting Screenshots :sweat_smile:
+- Changing Dependencies Of Android Studio caused Immense Difficulty :disappointed_relieved:
+- Updating Gradle File :worried: and Version of Android Studio
 
 
