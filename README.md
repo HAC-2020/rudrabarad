@@ -51,4 +51,10 @@ With the help of this application one can prevent their Diseases from spreading 
 - Changing Dependencies Of Android Studio caused Immense Difficulty :disappointed_relieved:
 - Updating Gradle File :worried: and Version of Android Studio
 
+## APK
+
+## Video Link
+https://drive.google.com/file/d/1LiXEvSZiYtCo21e3RZcpwf1uJp6BKMAx/view?usp=sharing
+
+
 
