@@ -52,9 +52,9 @@ With the help of this application one can prevent their Diseases from spreading 
 - Updating Gradle File :worried: and Version of Android Studio
 
 ## APK
+- [Download APK File from here](https://github.com/HAC-2020/rudrabarad/blob/master/Medi%20Consult.apk)
 
 ## Video Link
-https://drive.google.com/file/d/1LiXEvSZiYtCo21e3RZcpwf1uJp6BKMAx/view?usp=sharing
 
 
 
