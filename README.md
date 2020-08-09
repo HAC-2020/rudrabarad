@@ -51,10 +51,10 @@ With the help of this application one can prevent their Diseases from spreading 
 - Changing Dependencies Of Android Studio caused Immense Difficulty :disappointed_relieved:
 - Updating Gradle File :worried: and Version of Android Studio
 
-## APK
-- [Download APK File from here](https://github.com/HAC-2020/rudrabarad/blob/master/Medi%20Consult.apk)
+## APK File
+- [Download APK File from here](https://github.com/HAC-2020/rudrabarad/blob/master/Medi%20Consult.apk) 📥
 
 ## Video Link
-
+- [See Video here] :clapper:
 
 
