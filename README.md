@@ -57,6 +57,6 @@ With the help of this application one can prevent their Diseases from spreading 
 - [Download APK File from here](https://github.com/HAC-2020/rudrabarad/blob/master/Medi%20Consult.apk) 📥
 
 ## Video Link
-- [See Video here](https://vimeo.com/user121078865/review/446174114/4f3c0b5f74) :clapper:
+- [See Video here](https://drive.google.com/file/d/1U6QOl09OFFLLr__uMesfDzbakjvDGtNC/view?usp=sharing) :clapper:
 
 
